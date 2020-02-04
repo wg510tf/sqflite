@@ -1,5 +1,5 @@
-name: sqflite_repo
-description: Sqflite repo
+name: sqflite
+description: Sqflite
 version: 0.1.0
 homepage: https://github.com/tekartik/sqflite
 publish_to: none
