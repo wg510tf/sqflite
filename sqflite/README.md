@@ -14,7 +14,7 @@ Supports iOS, Android and MacOS.
 
 ## Getting Started
 
-In your flutter project add the dependency:
+In your flutter project add the de????pendency:
 
 ```yml
 dependencies:
